@@ -1,1 +1,7 @@
 Part, Purpose, Quantity, Price, Link, Owned
+Seeed XIAO ESP32-C3, Microcontroller (USB-C + LiPo charging built in), 1, ~$5, https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html, ?
+0.96in 128x64 SSD1306 I2C OLED, Screen, 1, ~$6, https://www.amazon.com/s?k=0.96+inch+SSD1306+I2C+OLED+128x64, ?
+6mm tactile push button (through-hole), Care buttons SW1-SW3, 3, ~$0.20, https://www.adafruit.com/product/367, ?
+2-pin 2.54mm male header, Battery connector BT1, 1, ~$0.10, https://www.adafruit.com/product/392, ?
+3.7V LiPo battery (~500mAh), Power, 1, ~$8, https://www.adafruit.com/product/1578, ?
+Custom PCB (2-layer, ~79mm round), Main board, 5, ~$2 + shipping, https://jlcpcb.com, ?
